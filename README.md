@@ -6,7 +6,7 @@ Sometimes, I like to solve competitive programming problems in codeforces (You c
 I have done some mini-projects but it's not something worth of bragging for :)).
 One more time, I really love math theory! Frequently, I left all the boring computation to my code hihihi.
 You can discuss about math with me, although I'm still noob ahahahaha.
-Linkedin URL: https://www.linkedin.com/in/hahanthonyyy
+Here's my Linkedin profile: https://www.linkedin.com/in/hahanthonyyy and email:hikari.netto.355@gmail.com (Rockman.exe reference ahahahha)
 
 <!--
 **nicholaswilven/nicholaswilven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
