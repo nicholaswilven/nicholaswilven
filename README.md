@@ -1,4 +1,12 @@
-### Hi there 👋
+### Linkedin URL: https://www.linkedin.com/in/hahanthonyyy
+Hello World! My name is Anthony.
+A mathematics undergraduate student who loves math theory and failed to get into computer science major last year.
+Currently, I'm aiming to be a Data Science or AI/ML Engineer. I have great interest in Natural Language Processing (and it's weird but fun implementation).
+My favourite (and only) programming language is Python yayyy.
+Sometimes, I like to solve competitive programming problems in codeforces (You can find me at https://codeforces.com/profile/Carnivorei)
+I have done some mini-projects but it's not something worth of bragging for :))
+One more time, I really love math theory! Frequently, I left all the boring computation to my code hihihi
+You can discuss about math with me, although I'm still noob ahahahaha 
 
 <!--
 **nicholaswilven/nicholaswilven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
